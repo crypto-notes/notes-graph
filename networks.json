@@ -1,7 +1,14 @@
 {
   "goerli": {
     "Cryptonotes": {
-      "address": "0xA9d1E6C19e3eBc9c9c716a240C751A7c9b19C3bC"
+      "address": "0xA9d1E6C19e3eBc9c9c716a240C751A7c9b19C3bC",
+      "startBlock": 7894694
+    }
+  },
+  "mumbai": {
+    "Cryptonotes": {
+      "address": "0xf0Af965386A66a677dF7E463327B6A3494064924",
+      "startBlock": 29208747
     }
   }
 }
